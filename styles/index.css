@@ -163,6 +163,7 @@ color: white;
     padding-left: 22px;
    line-height: 27px;
     margin-top: 6px;
+   
 }
 #hovermenu>div:hover{
     background-color: white;
@@ -256,7 +257,7 @@ border: solid 1px;
 #debouncediv{
     background-color: #ffffff;
     font-family: Helvetica, sans-serif;
-    width: 90%;
+    width: 98%;
     color: #373a3c;
     
    display: flex;
@@ -265,7 +266,7 @@ border: solid 1px;
 }
 #debouncediv:hover{
 background-color: #e1e1e1;
-border-radius: 3px;
+border-radius: 0px 0px 4px 4px;
 }
 #debouncediv>img{
     width: 40px;
@@ -300,12 +301,12 @@ margin-top: -2px;
 }
 #pRn>div{
    
-    width: 90%;
+    width: 98%;
    margin-top: 2px;
 }
 #pRn>div:hover{
     background-color: #e1e1e1;
-    border-radius: 3px;
+    border-radius: 0px 0px 4px 4px;
 }
 #pRn>div:nth-child(1){
     margin-top: 10px;
